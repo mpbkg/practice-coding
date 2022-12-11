@@ -1,0 +1,27 @@
+{
+  "name": "practice-coding",
+  "version": "1.0.0",
+  "description": "This repo contains javascript solution of programming questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpbkg/practice-coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpbkg/practice-coding/issues"
+  },
+  "homepage": "https://github.com/mpbkg/practice-coding#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "jest": "^29.3.1",
+    "prettier": "2.8.1"
+  }
+}
